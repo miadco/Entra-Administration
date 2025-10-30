@@ -1,4 +1,4 @@
-# 🛡️ SC-300: Identity and Access Administrator – Lab Portfolio
+# 🛡️ Microsoft Entra Administration – Lab Portfolio
 
 This repository showcases a comprehensive set of hands-on labs completed as part of the **Microsoft SC-300: Identity and Access Administrator** certification path. These labs demonstrate real-world experience with Microsoft Entra ID and key identity security practices, including:
 
